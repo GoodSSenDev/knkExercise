@@ -1,0 +1,3 @@
+a)it depend on but basically  2^n+1
+
+b)... 
