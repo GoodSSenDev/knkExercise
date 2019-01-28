@@ -1,0 +1,1 @@
+a) getch is not from the standard i/o library
